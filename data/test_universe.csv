@@ -1,0 +1,41 @@
+Symbol,Name,Sector,Beta,Weighted Alpha,ROE%,Market Cap
+JPM,JPMorgan Chase & Co.,Financials,1.11,-19.55,16.86,436.93
+AYI,Acuity Brands Inc,Industrials,1.61,29,16.67,6.56
+ETR,Entergy Corp.,Utilities,0.62,15.71,9.68,22.646
+ROST,Ross Stores,Consumer Discretionary,1.08,-31.49,46.87,31.448
+C,Citigroup Inc.,Financials,1.69,-27.98,10.93,115.044
+CSCO,Cisco Systems,Information Technology,0.95,11.36,30.08,234.484
+LKQ,LKQ Corporation,Consumer Discretionary,1.66,-5.6,18.97,12.752
+MCK,McKesson Corp.,Health Care,0.7,58.3,1401.75,41.25
+PRGO,Perrigo,Health Care,1.01,-13.83,-2.42,4.976
+IFF,Intl Flavors & Fragrances,Materials,1.05,-15.46,2.02,31.716
+PYPL,PayPal,Information Technology,1.29,-67.93,19.95,122.714
+ADSK,Autodesk Inc,Information Technology,1.46,-30.87,54.78,45.684
+VZ,Verizon Communications,Telecommunication Services,0.38,0.12,29.67,232.412
+MTB,M&T Bank Corp.,Financials,0.94,17.9,10.9,22.56
+COF,Capital One Financial,Financials,1.56,-8.81,20.45,55.989
+RL,Polo Ralph Lauren Corp.,Consumer Discretionary,1.46,-6.98,18.53,8.328
+MCO,Moody's Corp,Financials,1.21,1.8,94.64,60.309
+KO,Coca-Cola Company (The),Consumer Staples,0.66,24.1,42.49,270.728
+LH,Laboratory Corp. of America Holding,Health Care,1.06,9.7,24.09,24.982
+EXPE,Expedia Inc.,Consumer Discretionary,1.55,5.4,0.4,27.269
+ALK,Alaska Air Group Inc,Industrials,1.51,-27.5,14.08,6.283
+CMS,CMS Energy,Utilities,0.24,20.1,10.98,19.362
+PEG,Public Serv. Enterprise Inc.,Utilities,0.58,19.1,-4.26,33.82
+EOG,EOG Resources,Energy,1.78,-26.5,21.96,69.513
+ILMN,Illumina Inc,Health Care,0.92,-26.5,9.87,50.656
+WM,Waste Management Inc.,Industrials,0.86,26.3,24.92,65.069
+ISRG,Intuitive Surgical Inc.,Health Care,1.17,14.7,15.92,107.47
+NWL,Newell Brands,Consumer Discretionary,0.86,-8.7,14.32,9.829
+SHW,Sherwin-Williams,Materials,1.17,0.3,61.65,66.977
+VTR,Ventas Inc,Real Estate,1.17,3.2,0.52,22.264
+VMC,Vulcan Materials,Materials,0.7,0.9,10.7,23.347
+PGR,Progressive Corp.,Financials,0.47,20,19,62.286
+AON,Aon plc,Financials,0.88,23.6,55.18,62.493
+SJM,JM Smucker,Consumer Staples,0.31,10.5,7,14.475
+CMA,Comerica Inc.,Financials,1.39,28,14.65,11.649
+FIS,Fidelity National Information Services,Information Technology,0.74,-41.8,0.87,54.622
+AME,AMETEK Inc,Industrials,1.31,2.8,15.44,30.149
+AIZ,Assurant Inc,Financials,0.59,24.8,10.72,9.259
+DHI,D. R. Horton,Consumer Discretionary,1.68,-0.8,31.56,30.403
+ITW,Illinois Tool Works,Industrials,1.13,-6.33,79.14,65.801
