@@ -4,4 +4,4 @@ The report explaining the project:
 The video explaining the project:
 Steps to run this project locally.
 1) git clone
-2) and run all the cells in order
+2) run all the cells in order
